@@ -8,8 +8,8 @@ This repository contains the practical implementations, algorithms, Jupyter note
 
 ## 👨‍🎓 Student Information
 
-- **Name:** Tella Likith Krishna Yadav
-- **Enrollment No.:** 92460118245
+- **Name:** kothamasu nutan sai santhosh
+- **Enrollment No.:** 92460118573
 - **Course:** B.Tech – Artificial Intelligence & Machine Learning
 - **Subject:** Data Analysis and Algorithms (DAA)
 
@@ -115,7 +115,7 @@ Through these practicals, I gained knowledge of:
 
 ## 📌 Author
 
-**Tella Likith Krishna Yadav**
+**Kothamasu nutan sai santhosh**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
